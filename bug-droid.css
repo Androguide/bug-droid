@@ -32,9 +32,10 @@ h1 {
 #head span {
     position: relative;
     top: -0.3em;
+    left: 0.13em;
     font-size: 6em;
     font-family: serif;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.13em;
 }
 
 #upper-body {
@@ -69,11 +70,11 @@ h1 {
 
 #right-leg {
     float: right;
-    margin-right: 4em;
+    margin-right: 4.1em;
 }
 
 #left-leg {
-    margin-left: 4em;
+    margin-left: 1.25em;
 }
 
 #left-antenna {
