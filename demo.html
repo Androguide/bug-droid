@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Smartwatch Element</title>
+    <title>CSS/Polymer Bugdroid</title>
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
     <meta name="author" content="Louis Teboul - Androguide">
     <script src="bower_components/platform/platform.js"></script>
@@ -17,28 +17,26 @@
 </head>
 
 <body>
-
-<div class="text-center">
-    <div class="clearfix">
+<div class="container text-center">
+    <div class="clearfix" s>
         <bug-droid text="Hi, I'm a CSS Droid!"></bug-droid>
     </div>
 
-    <div class="clearfix">
-        <bug-droid style="font-size: 5px;"></bug-droid>
+    <div class="clearfix" style="margin-bottom: 150px;">
+        <bug-droid style="font-size: 5px;" text="Lorem ipsum!"></bug-droid>
         <bug-droid style="font-size: 7px;"></bug-droid>
         <bug-droid style="font-size: 9px;"></bug-droid>
         <bug-droid style="font-size: 11px;"></bug-droid>
-        <bug-droid style="font-size: 13px;"></bug-droid>
     </div>
-    <br/><br/><br/><br/><br/><br/><br/><br/>
 
-    <div class="clearfix">
+    <div class="clearfix" style="margin-bottom: 50px;">
         <bug-droid style="font-size: 5px;" text="Lorem ipsum!"></bug-droid>
         <bug-droid style="font-size: 7px;" text="Lorem ipsum!"></bug-droid>
-        <bug-droid style="font-size: 9px;" text="Lorem ipsum!"></bug-droid>
+        <bug-droid style="font-size: 9px;" text="&lt;bug-droid&gt;"></bug-droid>
     </div>
-    <br/><br/><br/><br/><br/>
 </div>
+
+
 <footer class="navbar-fixed-bottom">
     <p class="text-center">Made with &#10084; by <span class="pulse-shrink"><a
             href="https://plus.google.com/u/0/+LouisTeboulAndroguide">Louis Teboul (Androguide)</a></span></p>
