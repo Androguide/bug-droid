@@ -10,10 +10,6 @@ h1 {
     position: relative;
 }
 
-#android div {
-    background: #1abc9c;
-}
-
 #head, #body {
     display: block;
     margin-left: auto;
