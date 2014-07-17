@@ -13,7 +13,7 @@ First, import the component inside your `<head>` tag
 ```
 
 Then, simply use the `<bug-droid>` tag and use its available attributes described in the examples below
-```
+```html
 <!-- A default, teal droid -->
 <bug-droid></bug-droid>
 
