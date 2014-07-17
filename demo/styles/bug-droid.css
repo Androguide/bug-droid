@@ -1,0 +1,35 @@
+body {
+  background: #333;
+  font-family: Roboto, 'Helvetica', sans-serif;
+  font-weight: 100;
+  color: #fff;
+  padding-bottom: 40px; }
+
+footer a {
+  color: #1abc9c; }
+
+@-webkit-keyframes pulse-shrink {
+  to {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9); } }
+@keyframes pulse-shrink {
+  to {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9); } }
+.pulse-shrink {
+  display: inline-block;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px transparent; }
+
+.pulse-shrink {
+  -webkit-animation-name: pulse-shrink;
+  animation-name: pulse-shrink;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  animation-direction: alternate; }

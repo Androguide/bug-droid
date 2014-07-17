@@ -1,0 +1,46 @@
+<link rel="import" href="bower_components/polymer/polymer.html">
+
+<!-- SmartWatch 
+An element providing a dummy smartwatch built with CSS, with the ability to display images.
+
+##### Examples
+
+    <smart-watch></smart-watch>
+    
+    <smart-watch img="image.png"></smart-watch>
+
+@element smart-watch
+@blurb Element providing a dummy smartwatch built with CSS
+@status alpha
+@homepage http://androguide.github.io/Smartwatch
+-->
+
+<polymer-element name="bug-droid" attributes="text" noscript>
+
+    <template>
+        <link href='http://fonts.googleapis.com/css?family=Roboto:100' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="bug-droid.css">
+
+        <template if="{{text}}">
+            <div id="bubble">
+                <h1>{{text}}</h1>
+            </div>
+        </template>
+
+        <div id="android">
+            <div id="left-antenna"></div>
+            <div id="right-antenna"></div>
+            <div id="head">
+                <span>. .</span>
+            </div>
+            <div id="upper-body">
+                <div id="left-arm"></div>
+                <div id="body"></div>
+                <div id="right-arm"></div>
+            </div>
+            <div id="left-leg"></div>
+            <div id="right-leg"></div>
+        </div>
+    </template>
+
+</polymer-element>
