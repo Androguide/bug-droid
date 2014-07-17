@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5eec032-25bf-4681-936f-0a22d6c34ad8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bug-droid.css" afterPath="$PROJECT_DIR$/bug-droid.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bug-droid.html" afterPath="$PROJECT_DIR$/bug-droid.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo.html" afterPath="$PROJECT_DIR$/demo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="smart-watch.iws" />
@@ -28,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bug-droid.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="bug-droid.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bug-droid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.740741" vertical-offset="151" max-vertical-offset="954">
-              <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.3867121" vertical-offset="151" max-vertical-offset="954">
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="demo.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4173765" vertical-offset="223" max-vertical-offset="972">
-              <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+            <state vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="972">
+              <caret line="11" column="100" selection-start-line="11" selection-start-column="100" selection-end-line="11" selection-end-column="100" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#bug-droid#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -115,8 +113,8 @@
         <option value="$PROJECT_DIR$/demo/styles/bug-droid.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/bug-droid.css" />
-        <option value="$PROJECT_DIR$/bug-droid.html" />
         <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/bug-droid.html" />
       </list>
     </option>
   </component>
@@ -363,18 +361,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bug-droid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.740741" vertical-offset="151" max-vertical-offset="954">
-          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4173765" vertical-offset="223" max-vertical-offset="972">
-          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+        <state vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="972">
+          <caret line="11" column="100" selection-start-line="11" selection-start-column="100" selection-end-line="11" selection-end-column="100" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#bug-droid#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -386,6 +376,14 @@
             <element signature="n#style#0;n#bug-droid#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#bug-droid#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-droid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3867121" vertical-offset="151" max-vertical-offset="954">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
